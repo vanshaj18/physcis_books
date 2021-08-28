@@ -10,28 +10,19 @@ Some of these contains are in pdf, while some are in the djvu format. Both forma
 _Links::
 * DJVU reader for windows: https://djvu.com/download/
 * Ebook droid::https://play.google.com/store/apps/details?id=org.ebookdroid&hl=en_IN&gl=US
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Adding resources for a new field
+If you are adding a resources for a new field not already present, please follow these guidelines.
 
----
-name: New_addition_added
-about: Suggest an idea for this project
-title: ''
-labels: documentation
-assignees: ''
+### Add folder with name realted to the field
+Add the folder with the name that resembles the field and content within.
 
----
+### Add a readme file containing revelant description about the field, books, resources added. 
 
-**New field in which books should be added?**
-A clear and concise description of field and requirements and books being added in a readme page. Eg.  I m adding [......]
+ A clear and concise description of field and pre-requirements for understanding the field and content in the folder and books being added in a readme page. Eg.  I m adding [......], please read [.......] before reading these books.
 
-**Describe the content of books in brief**
-A clear and concise description of what you contain in the books/notes.
-
-**Describe alternatives if added**
-A clear and concise description of any alternative links/material or features you've added. Eg. Further in this area can be found at [.....links.....]
-
-**Any particular viewer/software required to open the material*
-Add any other context or screenshots about the viewer/software required to access the material.
+### If a new software is required to access the resources, please add the details and links from where to download and OS on which it could be used
+  
+  Add any other context or screenshots about the viewer/software required to access the material.
 
